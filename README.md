@@ -201,5 +201,6 @@ Food_Rating_Category = SWITCH(
 <img width="1321" height="731" alt="Screenshot 2025-11-07 113330" src="https://github.com/user-attachments/assets/01d4034d-645a-4ea2-b492-1df5468cf2a9" />
 <img width="1327" height="758" alt="Screenshot 2025-11-07 113239" src="https://github.com/user-attachments/assets/2a0b6c0e-e7eb-46d9-9e33-9ec6f56e3ac1" />
 
+d
 
 
